@@ -1,5 +1,5 @@
 {
-  "name": "veupress-plugin-zengarden-posts",
+  "name": "vuepress-plugin-zengarden-posts",
   "version": "1.0.0",
   "description": "Provides this.$posts for vuepress.",
   "main": "index.js",
